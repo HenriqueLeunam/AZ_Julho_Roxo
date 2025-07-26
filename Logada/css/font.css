@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'TradeGothicLTStdBoldExtended';
+  src: url('/assets/fonts/TradeGothicLTStdBoldExtended.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NeutraTextLight';
+  src: url('/assets/fonts/NeutraTextLight.otf') format('opentype');
+  font-weight: 300; 
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NeutraTextBold';
+  src: url('/assets/fonts/NeutraTextBold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
